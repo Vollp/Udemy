@@ -1,0 +1,19 @@
+
+public class Main {
+	
+	private String prodct1 = "Computer";
+	private String prodct2 = "Office desck";
+	private int age = 30;
+	private int code = 5290;
+	private char gender = 'F';
+	private double pricel1 = 2100.0;
+	private double pricel2 = 650.50;
+	private double measure = 53.234567;
+
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}
