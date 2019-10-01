@@ -1,0 +1,3 @@
+a = Math.sqrt(x); - Variavel a recebe a raiz quadrada de x
+a = Math.pow(x,y); - Variavel recebe o resultado de x elevado a y
+a = Math.abs(x); - Variavel a recebe o valor absoluto de x
